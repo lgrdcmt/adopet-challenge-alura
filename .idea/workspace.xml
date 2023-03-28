@@ -4,62 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="668104a2-499d-4beb-9d33-4c31f1e0a179" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/adopet.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/tutores/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/tutores/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/tutores/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/tutores/migrations/0001_initial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/tutores/migrations/0002_rename_city_tutor_cidade_rename_photo_tutor_foto_and_more.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/tutores/migrations/0003_alter_tutor_senha.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/tutores/migrations/0004_alter_tutor_foto.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/tutores/migrations/0005_alter_tutor_email.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/tutores/migrations/0006_alter_tutor_foto.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/tutores/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/tutores/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/tutores/serializer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/tutores/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/tutores/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requeriments.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/setup/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/setup/asgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/setup/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/setup/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/setup/wsgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/bin/activate" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/bin/activate.csh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/bin/activate.fish" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/bin/activate.nu" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/bin/activate.ps1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/bin/activate_this.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/bin/deactivate.nu" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/bin/django-admin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/bin/dotenv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/bin/markdown_py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/bin/pip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/bin/pip3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/bin/pip3.10" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/bin/python" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/bin/python3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/bin/python3.10" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/bin/sqlformat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/bin/wheel" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/bin/wheel-3.10" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/bin/wheel3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/bin/wheel3.10" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/pyvenv.cfg" afterDir="false" />
+    <list default="true" id="668104a2-499d-4beb-9d33-4c31f1e0a179" name="Changes" comment="commit">
+      <change beforePath="$PROJECT_DIR$/venv/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,6 +38,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/apps/tutores" />
     </key>
   </component>
@@ -104,6 +51,18 @@
       <option name="presentableId" value="Default" />
       <updated>1679960280265</updated>
     </task>
+    <task id="LOCAL-00001" summary="commit">
+      <created>1679970057021</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1679970057021</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit" />
   </component>
 </project>
